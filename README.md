@@ -1,4 +1,4 @@
-# Interpretable bilinear attention network with domain adaptation improves drug-target prediction | [Paper](https://doi.org/10.1038/s42256-022-00605-1)
+# TransferBAN-Syn: A Transfer Learning-Based Algorithm for Predicting Synergistic Drug Combinations Against Echinococcosis | [Paper]
 
 <div align="left">
 </div>
